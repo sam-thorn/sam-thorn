@@ -4,7 +4,7 @@ I'm Sam! A fullstack web developer with a background in project management and a
 
 - 🔭 I’m currently working on development projects that reinforce my skills and help me to become a better developer. 
   - Personal Project: A portfolio site to showcase my work.
-- 🌱 I’m currently learning React, Sass, GraphQL, MongoDB, Cypress.
+- 🌱 I’m currently learning React, MaterialUI, GraphQL, MongoDB, Cypress.
 - 😄 Pronouns: He/Him
 - :sparkles: I'm into: I love riding my bike, enjoy board games, and going to live music! :bike: :game_die: :guitar: 
 - 📫 How to reach me: https://www.linkedin.com/in/sam-thorn/
