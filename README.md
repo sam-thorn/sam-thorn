@@ -1,6 +1,6 @@
 ### Hello! 👋
 
-I'm Sam! A fullstack web developer with a background in project management and a love for creative solutions. I'm into solving problems that strive to make a product user's day better. I'm also interested in mobile development. 
+I'm Sam! A fullstack web developer with a background in project management and a love for creative solutions. I'm into solving problems that strive to make a product user's day better. Interested in both web and mobile development. 
 
 - 🔭 I’m currently working on development projects that reinforce my skills and help me to become a better developer. 
   - Personal Project: A Scrum Poker Planning app (Flutter)
